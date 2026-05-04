@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C0d1g0 d0 D0ce</title>
+</head>
+<body>
+    <header>
+        <img src="assets/img/logo_01.png" alt="C0d1g0 d0 D0ce" height="250">
+    
+        <h1>C0d1g0 d0 D0ce</h1>
+        <nav>   
+            <p>Pagina Inicial</p>
+            <p>Produtos</p>   
+            <p>Contato</p>
+            <p>Sobre</p>    
+        </nav>
+    </header>
+    <main> 
+        <h2>Nossa História</h2>
+        <p> Tudo começou com uma herança silenciosa: as receitas guardadas nas cozinhas antigas de cinco avós.     </p>
+        <p> que era apenas memória de infância tornou-se o ponto de união entre alunos que, em meio aos estudos,   </p>
+        <p> descobriram uma paixão comum.Decidimos que não faríamos apenas doces, mas uma curadoria de sabores.    </p>
+        <p> Unimos o melhor das receitas de diversos cantos do país — do segredo do ponto do brigadeiro do Sudeste </p>
+        <p> ao toque das frutas do Norte — criando um "código" único de sabor. Hoje, a C0d1g0 d0 D0ce é o resultado</p> 
+        <p> desse encontro entre o carinho do passado e a técnica do futuro.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 C0d1g0 d0 Sab0r - Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
